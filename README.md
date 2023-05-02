@@ -1,4 +1,6 @@
-### Hi there 👋
+# WELCOME =) 
+![GIF from GIFER](https://user-images.githubusercontent.com/113408834/235285457-24ae9bc3-de26-40be-931b-d468f8011f51.gif)
+# Personal Information 
 
 <!--
 **MoonnGuy/MoonnGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
